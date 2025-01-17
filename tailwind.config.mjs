@@ -11,8 +11,8 @@ export default {
 
       },
       backgroundImage: {
-        'fundo-claro': "url('@/public/images/fundo_claro.svg')",
-        'fundo-escuro': "url('@/public/images/fundo_escuro.svg')",
+        'fundo-claro': "url('/images/fundo_claro.svg')",
+        'fundo-escuro': "url('/images/fundo_escuro.svg')",
       },
     },
   },
